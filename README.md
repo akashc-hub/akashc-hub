@@ -12,21 +12,9 @@ You can click the Preview link to take a look at your changes.
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+ABDELLATIFLAGHJAJ;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+AKASH+CHAUHAN;I'm+from+India;I'm+a+Developer;Be+Welcome!+ツ)
 
-<div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdellatif-laghjaj&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
-  </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-laghjaj&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
-  </a>
-  <a>
-     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdellatif-laghjaj&theme=github_dark&show_icons=true" />
-  </a>
-</div> 
-   
+  
 <br>
 <br>
   
@@ -43,7 +31,7 @@ You can click the Preview link to take a look at your changes.
   
 <div> 
   <p align="center">
-    <a href="https://www.linkedin.com/in/abdellatif-laghjaj/"><img title="linkedin.com/in/abdellatif-laghjaj/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/akashchauhan07/"><img title="linkedin.com/in/akashchauhan07/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 	<a href="https://www.instagram.com/abdellatif.laghjaj/"><img title="instagram.com/abdellatif.laghjaj/" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
