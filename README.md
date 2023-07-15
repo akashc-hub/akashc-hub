@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <div style="display: inline_block">
   <p align="center">
 	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=js,vue,nodejs,tailwind,php,laravel,java,kotlin,flutter,mysql,firebase,python,git,figma" />
+      <img align="center" src="https://skillicons.dev/icons?i=js,java,mysql,python,git" />
     </a>
   </p>
 </div>
