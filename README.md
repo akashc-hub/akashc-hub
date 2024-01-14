@@ -82,17 +82,12 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-
+## 🔥 Streak Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashc-hub&" alt="akashc-hub" /></p>
 
 ## 📊 Github Stats
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashc-hub&show_icons=true&locale=en" alt="akashc-hub" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashc-hub&show_icons=true&locale=en&layout=compact" alt="akashc-hub" /></p>
-
-## 🔥 Streak Stats
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashc-hub&" alt="akashc-hub" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chauhanakash"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/chauhanakash" /></a></p><br><br>
