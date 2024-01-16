@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chauhanakash.netlify.app/](https://chauhanakash.netlify.app/)
 
-- 💬 Ask me about **HTML, Java, C++, React.js, Python**
+- 💬 Ask me about **HTML, css, Java, C++, React.js, Python**
 
 - 📫 How to reach me **akashchauhan6690@gmail.com**
 
