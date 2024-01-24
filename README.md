@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Full Stack**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
@@ -24,7 +24,7 @@
 <a href="https://instagram.com/_akash__chauhan___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akash__chauhan___/" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Languages and Tool
+## 🛠️ Languages and Tools
 
 ### 👨‍💻 Programming Languages
 
