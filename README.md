@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-- 🌱 I’m currently learning **Full-Stack**
+- 🌱 I’m currently learning **Full-Stack Development**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
