@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Web-Development**
 
 - 👨‍💻 All of my projects are available at [https://chauhanakash.netlify.app/](https://chauhanakash.netlify.app/)
 
